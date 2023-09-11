@@ -1,0 +1,26 @@
+body{ 
+  font-size: 23pt;
+  height: 1500px;
+  margin: 0;
+  padding: 0;
+  font-family: arial;
+  }
+.offset{
+  margin-top: 0;
+  padding-top: 270px;
+  text-align: center;
+  transition: .3s;
+  font-size: 30px;
+}
+.header{
+  position: fixed;
+  width: 100%;
+  height: 100px;
+  font-weight: bold;
+  text-align: center;
+  background: #7f6ff0;
+  transition: o.3s;
+  color: #fff;
+  padding: 20px;
+}
+
